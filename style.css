@@ -1,0 +1,27 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+body{
+	color:black;
+	font-family: serif;
+}
+div{
+	background-color: #eeeee4;
+}
+#title{
+	text-align: center;
+	font-size: 50px;
+}
+#img-caption{
+	font-size: 35px;
+	text-align: center;
+}
+#img-div{
+	text-align: center;
+}
+#tribute-info{
+	font-size: 18px;
+	text-align: center;
+}
